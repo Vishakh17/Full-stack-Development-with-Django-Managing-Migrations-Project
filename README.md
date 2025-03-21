@@ -67,10 +67,9 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
-Done By :-    
-         Rameshwar Digambar Patil
+Done By :- Vishakh Shetty
 
-Div - J - 01
+Div - J - 46
 
 Pimpri Chinchwad University
 
