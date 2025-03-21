@@ -31,7 +31,7 @@ Setup Instructions
 sh
 Copy
 Edit
-git clone https://github.com/rameshwar-p001/Django-full-stack-develpment-project-main-clg.git
+git clone https://github.com/Vishakh17/Full-stack-Development-with-Django-Managing-Migrations-Project
 
 cd Django-full-stack-develpment-project-main-clg
 
